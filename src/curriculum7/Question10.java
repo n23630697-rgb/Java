@@ -1,4 +1,4 @@
-package Cuestion7;
+package curriculum7;
 
 class MyCustomException extends Exception {
     public MyCustomException(String message) {
