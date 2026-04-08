@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c9d3ccd-dc20-4cbf-8a1a-34f125a0db24" name="Changes" comment="課題提出">
-      <change afterPath="$PROJECT_DIR$/src/curriculum9/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum9/Question10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum9/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum9/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum9/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum9/Question5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum9/Question6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum9/Question7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum9/Question8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum9/Question9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cuestion7/Question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curriculum7/Question1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cuestion7/Question10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curriculum7/Question10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cuestion7/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curriculum7/Question2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cuestion7/Question3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curriculum7/Question3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cuestion7/Question4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curriculum7/Question4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cuestion7/Question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curriculum7/Question5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cuestion7/Question6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curriculum7/Question6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cuestion7/Question7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curriculum7/Question7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cuestion7/Question8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curriculum7/Question8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775654104733</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="課題提出">
+      <option name="closed" value="true" />
+      <created>1775655012321</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1775655012321</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
