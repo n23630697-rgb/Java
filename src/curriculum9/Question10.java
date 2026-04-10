@@ -16,7 +16,27 @@ public class Question10 {
                 "        Student student = new Student();\n" +
 
                 "    }\n" +
-                "}");
+                "}" +
+                "class Person{" +
+                "String name;" +
+                "int age;" +
+                "}" +
+                "class student extends Person{" +
+                "int student Id;" +
+                "void study(){" +
+                        "System.out.println(name + \"学籍番号\" + studentId);" +
+            "}" +
+            "}" +
+            "public class Main{" +
+                "public static void main (String[] args) {"  +
+            "Student Student=new Student();" +
+                    "Student.name = \"佐藤\";"  +
+            "Student.age=20;" +
+            "Student.studentId=12345;" +
+            "Student.Study();" +
+            "}" +
+            "}"
+            );
     }
 }
 
