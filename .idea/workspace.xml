@@ -2,17 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c9d3ccd-dc20-4cbf-8a1a-34f125a0db24" name="Changes" comment="課題提出">
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curriculam15/Question9.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/curriculum14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum14/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum14/Question10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum14/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum14/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum14/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum14/Question5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum14/Question6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum14/Question7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum14/Question8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curriculum14/Question9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,75 +65,75 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Cuestion7.Question10.executor": "Run",
-    "Application.Hello.executor": "Run",
-    "Application.Hello3.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Question1.executor": "Run",
-    "Application.Question10.executor": "Run",
-    "Application.Question11.executor": "Run",
-    "Application.Question12.executor": "Run",
-    "Application.Question13.executor": "Run",
-    "Application.Question14.executor": "Run",
-    "Application.Question15.executor": "Run",
-    "Application.Question16.executor": "Run",
-    "Application.Question17.executor": "Run",
-    "Application.Question18.executor": "Run",
-    "Application.Question19.executor": "Run",
-    "Application.Question2.executor": "Run",
-    "Application.Question20.executor": "Run",
-    "Application.Question3.executor": "Run",
-    "Application.Question4.executor": "Run",
-    "Application.Question5.executor": "Run",
-    "Application.Question6.executor": "Run",
-    "Application.Question7.executor": "Run",
-    "Application.Question8.executor": "Run",
-    "Application.Question9.executor": "Run",
-    "Application.Questoin1.executor": "Run",
-    "Application.arakaki.executor": "Run",
-    "Application.curriculum1.executor": "Run",
-    "Application.curriculum10.Question1.executor": "Run",
-    "Application.curriculum10.Question2.executor": "Run",
-    "Application.curriculum10.Question3.executor": "Run",
-    "Application.curriculum10.Question4.executor": "Run",
-    "Application.curriculum10.Question5.executor": "Run",
-    "Application.curriculum2.executor": "Run",
-    "Application.curriculum3.Question1.executor": "Run",
-    "Application.curriculum3.Question2.executor": "Run",
-    "Application.curriculum3.Question3.executor": "Run",
-    "Application.curriculum3.Question4.executor": "Run",
-    "Application.curriculum3.executor": "Run",
-    "Application.curriculum4.Question5.executor": "Run",
-    "Application.curriculum4.executor": "Run",
-    "Application.curriculum5.Question2.executor": "Run",
-    "Application.curriculum5.Question3.executor": "Run",
-    "Application.curriculum5.Question4.executor": "Run",
-    "Application.curriculum5.executor": "Run",
-    "Application.curriculum6.Question1.executor": "Run",
-    "Application.curriculum6.Question5.executor": "Run",
-    "Application.curriculum8.Question9.executor": "Run",
-    "Application.curriculum9.Question6.executor": "Run",
-    "Application.curriculum9.Question7.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "hiyori",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Cuestion7.Question10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hello3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Questoin1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arakaki.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum10.Question1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum10.Question2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum10.Question3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum10.Question4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum10.Question5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum3.Question1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum3.Question2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum3.Question3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum3.Question4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum4.Question5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum5.Question2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum5.Question3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum5.Question4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum6.Question1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum6.Question5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum8.Question9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum9.Question6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.curriculum9.Question7.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;hiyori&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Question8">
-    <configuration name="Question10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curriculum14.Question10" />
+}</component>
+  <component name="RunManager" selected="Application.Question20">
+    <configuration name="Question16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curriculam15.Question16" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curriculum14.*" />
+          <option name="PATTERN" value="curriculam15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curriculum14.Question6" />
+    <configuration name="Question17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curriculam15.Question17" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curriculum14.*" />
+          <option name="PATTERN" value="curriculam15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curriculum14.Question7" />
+    <configuration name="Question18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curriculam15.Question18" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curriculum14.*" />
+          <option name="PATTERN" value="curriculam15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curriculum14.Question8" />
+    <configuration name="Question19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curriculam15.Question19" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curriculum14.*" />
+          <option name="PATTERN" value="curriculam15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="curriculum14.Question9" />
+    <configuration name="Question20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curriculam15.Question20" />
       <module name="IdeaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="curriculum14.*" />
+          <option name="PATTERN" value="curriculam15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question8" />
-        <item itemvalue="Application.Question7" />
-        <item itemvalue="Application.Question10" />
-        <item itemvalue="Application.Question9" />
-        <item itemvalue="Application.Question6" />
+        <item itemvalue="Application.Question20" />
+        <item itemvalue="Application.Question19" />
+        <item itemvalue="Application.Question17" />
+        <item itemvalue="Application.Question18" />
+        <item itemvalue="Application.Question16" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775816475173</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="課題提出">
+      <option name="closed" value="true" />
+      <created>1775918611308</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1775918611308</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -385,6 +403,11 @@
           <url>file://$PROJECT_DIR$/src/curriculum8/Question7.java</url>
           <line>4</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/curriculam15/Question18.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/curriculum8/Question4.java</url>
